@@ -11,10 +11,6 @@ The Cuevas Bakeshop has grown tremendously over several decades, but they now re
 <img  src="https://github.com/gableria21/it130project/assets/107374747/e50047f7-4d9b-4b17-9d25-a50322f77e54">
 </p>
 
-
-
-
-
 ----
 
 ### Project Details
@@ -30,3 +26,9 @@ The Cuevas Bakeshop has grown tremendously over several decades, but they now re
 ✅ Toggled color themes based on their preferences
 
 </ul>
+
+### Link of Full Project
+
+🔗 https://drive.google.com/drive/folders/18Jm9MrjMeqxmRQWQQv9jIj-5g6FIkywL?usp=sharing
+
+🎥 https://youtu.be/0xNlQJTbqBQ
